@@ -1,6 +1,6 @@
 Please acknowledge the use of these scripts in any publications that make use of them.
 
-As shown in Reservoir3setsScheme_MultiDimLongData.ipynb, <b>Lorenz-63 for the 1000-step-ahead prediction (nondimensional time of 10) achieves a MAE of 0.014</b> (for the standardized dataset), computed as the mean error over the entire prediction horizon.
+As shown in Reservoir3setsScheme_MultiDimLongData.ipynb, <b>Lorenz-63 for the 1000-step-ahead prediction (nondimensional time of 10) achieves a MAE of 0.014</b> for the standardized dataset, computed as the mean error over the entire prediction horizon.
 
 
 Comparison with Feng et al. (2025)
