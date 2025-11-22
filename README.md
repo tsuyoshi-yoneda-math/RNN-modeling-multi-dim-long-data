@@ -13,7 +13,7 @@ However, their training dataset consists of only 6,000 samples, whereas ours con
 
 ---
 
-<h2>Novelty and Significance of This Work<\h2>
+<h2>Novelty and Significance of This Work</h2>
 
 Predicting chaotic dynamical systems such as the Lorenz-63 model has traditionally been performed with relatively small datasets—typically a single trajectory of a few thousand time steps.
 This convention stems from the widely held belief that chaotic systems do not significantly benefit from large-scale data, because prediction horizons are fundamentally limited by exponential error growth characterized by the Lyapunov time.
