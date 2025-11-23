@@ -1,5 +1,13 @@
 Please acknowledge the use of these scripts in any publications that make use of them.
 
+---
+
+You can see the diagram of the learning framework:
+
+https://github.com/tsuyoshi-yoneda-math/SummaryNoteSlide-ML-Turbulence/blob/main/summary_ML_impl_driven_math.pdf
+
+---
+
 As shown in Reservoir3setsScheme_MultiDimLongData.ipynb, <b>Lorenz-63 for the 1000-step-ahead prediction (nondimensional time of 10) achieves a MAE of 0.014</b> for the standardized dataset, computed as the mean error over the entire prediction horizon.
 
 
